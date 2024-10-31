@@ -3,6 +3,8 @@
 # individual_project_2_yl
 # Project #2: Rust CLI Binary with SQLite
 
+[Demo Video](https://www.youtube.com/watch?v=3bTg9vB4alA&ab_channel=stargisldf)
+
 ## Requirements
  - Rust source code: The code should comprehensively understand Rust's syntax and unique features.
     - Implementation of Rust's unique features
